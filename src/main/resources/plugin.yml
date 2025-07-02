@@ -1,0 +1,5 @@
+name: CatChest
+version: '1.0-SNAPSHOT'
+main: haxlyst.catChest.CatChest
+api-version: '1.20'
+authors: [ Haxlyst ]
